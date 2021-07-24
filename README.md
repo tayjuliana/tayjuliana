@@ -1,16 +1,28 @@
-### Hi there 👋
+### Welcome and Hello World !
 
-<!--
-**tayjuliana/tayjuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Tayná Juliana, i live in São Paulo - SP Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/6xur4da23nILIsH0PYDMUp)
+
+
+
+  
+I'm a Back-End developer and I'm always studying to become a Full-Stack Developer. 
+  
+I've been dedicating into practicing Java, C#, HTML, CSS and JavaScript.
+  
+ Passionate about studying technology, here I will share all my projects 😉
+
+  
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tayjuliana&show_icons=true&theme=dark)                                                         
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tayjuliana&theme=dark)
+
+
+
+
+
+  Thanks for visiting :cherry_blossom:
+  
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=tayjuliana)
+
