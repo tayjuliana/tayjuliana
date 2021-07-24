@@ -3,7 +3,7 @@
 
 I'm Tayná Juliana, i live in São Paulo - SP Brazil.
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/6xur4da23nILIsH0PYDMUp)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]
 
 
 
